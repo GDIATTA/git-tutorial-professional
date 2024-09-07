@@ -31,4 +31,8 @@ We want **merge** these two branch : **master** and **feature1**. <br>
 ![Capture d’écran 2024-09-07 030721](https://github.com/user-attachments/assets/b2b7688d-9b17-4b1a-825f-38b281f84ae7)
 
 
-**---------------------------- Feature Branch workflow -----------------------**
+**---------------------------- Feature Branch workflow -----------------------** <br>
+The **Fea­ture Branch Work­flow** is a step-by-step process using by **Git and GitHub** after using the Cen­tral­ized Work­flow.
+
+We want to upload a new feature into **GitHub**. For that we will create a repository in **GitHub** and then upload this new feature from **local** into **GitHub**.
+
