@@ -34,7 +34,7 @@ We want **merge** these two branch : **master** and **feature1**. <br>
 **---------------------------- Feature Branch workflow -----------------------** <br>
 The **Fea­ture Branch Work­flow** is a step-by-step process using by **Git and GitHub** after using the Cen­tral­ized Work­flow.
 
-We want to upload a new feature into **GitHub**. For that we will create a repository in **GitHub** and then upload this new feature from **local** into **GitHub**.
+We want to upload a new feature into **GitHub**. To do this, we will create a **repository** on GitHub and then push the **new feature** from the **local environment** to **GitHub**. <br>
 
 ![Capture d’écran 2024-09-07 030721](https://github.com/user-attachments/assets/b0813620-30c0-47c5-90ae-52d616bbbb18)
 ![Capture d’écran 2024-09-07 120948](https://github.com/user-attachments/assets/90eaa9bc-aab3-473c-aff9-0d14a6896cdf)
@@ -43,3 +43,13 @@ We want to upload a new feature into **GitHub**. For that we will create a repos
 ![Capture d’écran 2024-09-07 124014](https://github.com/user-attachments/assets/a45bb06b-6245-482b-90d0-bcc023b44d5e)
 ![Capture d’écran 2024-09-07 124125](https://github.com/user-attachments/assets/14ed00bd-d624-4dc9-9d42-0e3c8e4762dc)
 
+We assume that **two engineers** are working on **the same project**. In the end, they want to **merge** their work into the **main branch, master**. <br>
+
+![Capture d’écran 2024-09-07 124621](https://github.com/user-attachments/assets/dc516518-e3d0-41c8-9531-743e57ad1b06)
+![Capture d’écran 2024-09-07 125219](https://github.com/user-attachments/assets/2862a569-ce42-485f-9541-b276acc8cc70)
+![Capture d’écran 2024-09-07 125249](https://github.com/user-attachments/assets/d6369ed6-a055-4200-8186-1aafcdd60c99)
+![Capture d’écran 2024-09-07 130144](https://github.com/user-attachments/assets/3ed94944-fdce-4129-a480-625019a8a6fc)
+![Capture d’écran 2024-09-07 130401](https://github.com/user-attachments/assets/144509b3-9e4d-49ea-a9a6-364110a7cccc)
+![Capture d’écran 2024-09-07 130427](https://github.com/user-attachments/assets/4f0cd1f5-d749-46c8-8ebd-edc7df3530eb)
+![Capture d’écran 2024-09-07 130454](https://github.com/user-attachments/assets/a072128b-0fac-4082-a70c-c920f7b4c460)
+![Capture d’écran 2024-09-07 130533](https://github.com/user-attachments/assets/28f13dcb-b136-4409-be4c-1dfc12fc5de6)
