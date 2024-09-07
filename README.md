@@ -36,3 +36,10 @@ The **Fea­ture Branch Work­flow** is a step-by-step process using by **Git and
 
 We want to upload a new feature into **GitHub**. For that we will create a repository in **GitHub** and then upload this new feature from **local** into **GitHub**.
 
+![Capture d’écran 2024-09-07 030721](https://github.com/user-attachments/assets/b0813620-30c0-47c5-90ae-52d616bbbb18)
+![Capture d’écran 2024-09-07 120948](https://github.com/user-attachments/assets/90eaa9bc-aab3-473c-aff9-0d14a6896cdf)
+![Capture d’écran 2024-09-07 123338](https://github.com/user-attachments/assets/a720fab7-1987-45e7-adaa-371b79dc4a1e)
+![Capture d’écran 2024-09-07 123426](https://github.com/user-attachments/assets/16bda4ce-c69b-4be6-9234-a94df4b35796)
+![Capture d’écran 2024-09-07 124014](https://github.com/user-attachments/assets/a45bb06b-6245-482b-90d0-bcc023b44d5e)
+![Capture d’écran 2024-09-07 124125](https://github.com/user-attachments/assets/14ed00bd-d624-4dc9-9d42-0e3c8e4762dc)
+
